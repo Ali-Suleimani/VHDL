@@ -1,0 +1,126 @@
+C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/Multiplexer_TestBench.vhd {1 {vcom -work work -2002 -explicit {C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Multiplexer_TestBench.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package CPU_package
+-- Compiling entity Multiplexer_TestBench
+-- Compiling architecture behave of Multiplexer_TestBench
+
+} {} {}} C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/ROM.vhd {1 {vcom -work work -2002 -explicit {C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\ROM.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package CPU_package
+-- Compiling entity rom
+-- Compiling architecture RTL of rom
+
+} {} {}} C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/Buffert.vhd {1 {vcom -work work -2002 -explicit {C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Buffert.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package CPU_package
+-- Compiling entity Buffert
+-- Compiling architecture RTL of Buffert
+
+} {} {}} C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/Multiplexer.vhd {1 {vcom -work work -2002 -explicit {C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Multiplexer.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package CPU_package
+-- Compiling entity multiplexer
+-- Compiling architecture rtl of multiplexer
+
+} {} {}} C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/CPU_Package.vhd {1 {vcom -work work -2002 -explicit {C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\CPU_Package.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling package CPU_package
+-- Compiling package body CPU_package
+-- Loading package CPU_package
+
+} {} {}} C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/RW_MEMORY_TestBench.vhd {1 {vcom -work work -2002 -explicit {C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RW_MEMORY_TestBench.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package CPU_package
+-- Compiling entity RW_MEMORY_TestBench
+-- Compiling architecture behave of RW_MEMORY_TestBench
+
+} {} {}} C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/RegisterFile_TestBench.vhd {1 {vcom -work work -2002 -explicit C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/RegisterFile_TestBench.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package CPU_package
+-- Compiling entity RegisterFile_TestBench
+-- Compiling architecture registerfile of RegisterFile_TestBench
+
+} {} {}} C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/RegisterFile.vhd {1 {vcom -work work -2002 -explicit {C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RegisterFile.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package CPU_package
+-- Compiling entity RegisterFile
+-- Compiling architecture RTL of RegisterFile
+
+} {} {}} C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/Buffert_TestBench.vhd {1 {vcom -work work -2002 -explicit {C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Buffert_TestBench.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package CPU_package
+-- Compiling entity Buffert_TestBench
+-- Compiling architecture buffert of Buffert_TestBench
+
+} {} {}} C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/ROM_TestBench.vhd {1 {vcom -work work -2002 -explicit C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/ROM_TestBench.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package CPU_package
+-- Compiling entity ROM_TestBench
+-- Compiling architecture behave of ROM_TestBench
+
+} {} {}} C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/RW_MEMORY.vhd {1 {vcom -work work -2002 -explicit {C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RW_MEMORY.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package CPU_package
+-- Compiling entity ram
+-- Compiling architecture RTL of ram
+
+} {} {}}

@@ -1,0 +1,508 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\alisu\OneDrive\Documents\VHDL\Lab1
+Ebuffert
+Z0 w1665073755
+Z1 DPx4 work 11 cpu_package 0 22 g7JF7=XU:U_0KnAO6LElm0
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\alisu\OneDrive\Documents\VHDL\Lab_2
+Z7 8C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Buffert.vhd
+Z8 FC:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Buffert.vhd
+l0
+L6
+VcdJVzc<=eoGLo7ZcOV9VJ0
+Z9 OV;C;10.1d;51
+32
+Z10 !s108 1674576767.702000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Buffert.vhd|
+Z12 !s107 C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Buffert.vhd|
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+!s100 4R@oiZSLRGB]SM:X^:Cag0
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+DEx4 work 7 buffert 0 22 cdJVzc<=eoGLo7ZcOV9VJ0
+l13
+L12
+V7mKMLcFThoZX<Q]4G?:0_2
+R9
+32
+R10
+R11
+R12
+R13
+R14
+!s100 :7M^BdzzIl5QlA6f_^oKP0
+!i10b 1
+Ebuffert_testbench
+Z15 w1665072084
+R1
+R2
+R3
+R4
+R5
+R6
+Z16 8C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Buffert_TestBench.vhd
+Z17 FC:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Buffert_TestBench.vhd
+l0
+L6
+VLJMAzRQkNI1CVk2FSFOfl1
+R9
+32
+Z18 !s108 1674576768.249000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Buffert_TestBench.vhd|
+Z20 !s107 C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Buffert_TestBench.vhd|
+R13
+R14
+!s100 M@iaB0eT__^Icbo<V>CL82
+!i10b 1
+Abuffert
+R1
+R2
+R3
+R4
+R5
+DEx4 work 17 buffert_testbench 0 22 LJMAzRQkNI1CVk2FSFOfl1
+l25
+L10
+VlhW07cKC]kFlmG?>0G:h72
+R9
+32
+R18
+R19
+R20
+R13
+R14
+!s100 Q]VL`6:8434?^M8Wk`IBI1
+!i10b 1
+Pcpu_package
+R2
+R3
+R4
+R5
+Z21 w1665045328
+R6
+Z22 8C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\CPU_Package.vhd
+Z23 FC:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\CPU_Package.vhd
+l0
+L4
+Vg7JF7=XU:U_0KnAO6LElm0
+R9
+32
+b1
+Z24 !s108 1674576767.482000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\CPU_Package.vhd|
+Z26 !s107 C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\CPU_Package.vhd|
+R13
+R14
+!s100 [nBRcL3BHdI:jiZNXBz9G3
+!i10b 1
+Bbody
+R1
+R2
+R3
+R4
+R5
+l0
+L22
+VN8`Qj;Pc1`ShaiF5Dn8A[2
+R9
+32
+R24
+R25
+R26
+R13
+R14
+nbody
+!s100 Bl<41TRzo?o]o1kjY[WG01
+!i10b 1
+Emultiplexer
+Z27 w1665417782
+R2
+R3
+R1
+R4
+R5
+R6
+Z28 8C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Multiplexer.vhd
+Z29 FC:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Multiplexer.vhd
+l0
+L6
+V<U9T:mKoDkORUP5?g`5:Q3
+R9
+32
+Z30 !s108 1674576767.810000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Multiplexer.vhd|
+Z32 !s107 C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Multiplexer.vhd|
+R13
+R14
+!s100 g4i8CZ8QE8h97e>Ra@Hi>3
+!i10b 1
+Artl
+R2
+R3
+R1
+R4
+R5
+DEx4 work 11 multiplexer 0 22 <U9T:mKoDkORUP5?g`5:Q3
+l20
+L19
+V9gJM=6Mh[Azl=NgE447eM0
+R9
+32
+R30
+R31
+R32
+R13
+R14
+!s100 3jQPKX28;9nAc6_llY@Y]0
+!i10b 1
+Emultiplexer_testbench
+Z33 w1665418148
+R2
+R3
+R1
+R4
+R5
+R6
+Z34 8C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Multiplexer_TestBench.vhd
+Z35 FC:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Multiplexer_TestBench.vhd
+l0
+L5
+VV=ZnJ;3D9:O]FLc:OEmlV3
+R9
+32
+Z36 !s108 1674576768.367000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Multiplexer_TestBench.vhd|
+Z38 !s107 C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\Multiplexer_TestBench.vhd|
+R13
+R14
+!s100 4T^P]So4XAaz9JGhOd?ba3
+!i10b 1
+Abehave
+R2
+R3
+R1
+R4
+R5
+Z39 DEx4 work 21 multiplexer_testbench 0 22 V=ZnJ;3D9:O]FLc:OEmlV3
+l29
+L9
+Vc[jilY:C7]RbbG=SodDQj0
+R9
+32
+R36
+R37
+R38
+R13
+R14
+!s100 ba0ae<XW7:TXSLENIR>lD0
+!i10b 1
+Amultiplexer
+R2
+R3
+R1
+R4
+R5
+R39
+l27
+L9
+V>0YZhRSjAE0T]NPH5QBd=2
+R9
+32
+R13
+R14
+w1665420705
+FC:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/Multiplexer_TestBench.vhd
+8C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/Multiplexer_TestBench.vhd
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/Multiplexer_TestBench.vhd|
+!s107 C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/Multiplexer_TestBench.vhd|
+!s108 1665420862.931000
+!s100 :zd21AeZoeZZ>mHLcN;482
+!i10b 1
+Emux
+w1665082342
+R1
+R2
+R3
+R4
+R5
+R6
+8C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/Multiplexer.vhd
+FC:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/Multiplexer.vhd
+l0
+L5
+VT8V@9UA7=3I@H@3CDgzNE2
+R9
+32
+R13
+R14
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/Multiplexer.vhd|
+!s107 C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/Multiplexer.vhd|
+!s100 9hR8Cz>6JSCo9jjQU0aH;2
+!i10b 1
+!s108 1665082344.058000
+Eram
+Z40 w1665748656
+R1
+Z41 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R2
+R3
+R4
+R5
+R6
+Z42 8C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RW_MEMORY.vhd
+Z43 FC:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RW_MEMORY.vhd
+l0
+L6
+V0nYWk<QE3cdlU^UhA7TgI1
+R9
+32
+Z44 !s108 1674576768.015000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RW_MEMORY.vhd|
+Z46 !s107 C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RW_MEMORY.vhd|
+R13
+R14
+!s100 QJOCXDz0@BEZGaH@]9UV71
+!i10b 1
+Artl
+R1
+R41
+R2
+R3
+R4
+R5
+DEx4 work 3 ram 0 22 0nYWk<QE3cdlU^UhA7TgI1
+l17
+L13
+VRGX76f9<4Y[4dT0KM3JFo3
+R9
+32
+R44
+R45
+R46
+R13
+R14
+!s100 ]Ozke]gGT`_<ic<Yio5Hb3
+!i10b 1
+Eregisterfile
+Z47 w1665414535
+R2
+R3
+R1
+R41
+R4
+R5
+R6
+Z48 8C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RegisterFile.vhd
+Z49 FC:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RegisterFile.vhd
+l0
+L8
+VC5^fe;@V1P;=<a4[5JEP52
+R9
+32
+Z50 !s108 1674576767.592000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RegisterFile.vhd|
+Z52 !s107 C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RegisterFile.vhd|
+R13
+R14
+!s100 zSPNUHA0bzd750oK<J4Od3
+!i10b 1
+Artl
+R2
+R3
+R1
+R41
+R4
+R5
+DEx4 work 12 registerfile 0 22 C5^fe;@V1P;=<a4[5JEP52
+l26
+L21
+V9[3CSd0GMfg@Dj_998>2a2
+R9
+32
+R50
+R51
+R52
+R13
+R14
+!s100 =DC?I0if<9CWWKcD`QPbV3
+!i10b 1
+Eregisterfile_testbench
+Z53 w1665414457
+R2
+R3
+R1
+R4
+R5
+R6
+Z54 8C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/RegisterFile_TestBench.vhd
+Z55 FC:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/RegisterFile_TestBench.vhd
+l0
+L8
+V^@QGm2]E6hPf[5A;jH71I1
+R9
+32
+Z56 !s108 1674576768.143000
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/RegisterFile_TestBench.vhd|
+Z58 !s107 C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/RegisterFile_TestBench.vhd|
+R13
+R14
+!s100 =k6o[J37h7mY:L^UNIY:S3
+!i10b 1
+Aregisterfile
+R2
+R3
+R1
+R4
+R5
+DEx4 work 22 registerfile_testbench 0 22 ^@QGm2]E6hPf[5A;jH71I1
+l35
+L11
+VeT7<oI?3jU8=_2jPa::UE0
+R9
+32
+R56
+R57
+R58
+R13
+R14
+!s100 0Bk;KQ^VzLZd_]1m@=jXD0
+!i10b 1
+Erom
+Z59 w1665419699
+R1
+R2
+R3
+R4
+R5
+R6
+Z60 8C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\ROM.vhd
+Z61 FC:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\ROM.vhd
+l0
+L5
+VG7BgmKdb8;QXhV7N1mECJ2
+R9
+32
+Z62 !s108 1674576767.920000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\ROM.vhd|
+Z64 !s107 C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\ROM.vhd|
+R13
+R14
+!s100 Ph2UXl7;=i2R;TT?^eb_[3
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+DEx4 work 3 rom 0 22 G7BgmKdb8;QXhV7N1mECJ2
+l13
+L12
+V6M_zP:kU:dk`9hHi74g9k1
+R9
+32
+R62
+R63
+R64
+R13
+R14
+!s100 EDO6z=MHckV^@z;PP`H6X0
+!i10b 1
+Erom_testbench
+Z65 w1665425857
+R2
+R3
+R1
+R41
+R4
+R5
+R6
+Z66 8C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/ROM_TestBench.vhd
+Z67 FC:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/ROM_TestBench.vhd
+l0
+L7
+Vf]0MChQiD1dU2;N4mkJ6h2
+R9
+32
+Z68 !s108 1674576768.504000
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/ROM_TestBench.vhd|
+Z70 !s107 C:/Users/alisu/OneDrive/Documents/VHDL/Lab_2/ROM_TestBench.vhd|
+R13
+R14
+!s100 a^5fL[IPK`OkfeYz6PR<63
+!i10b 1
+Abehave
+R2
+R3
+R1
+R41
+R4
+R5
+DEx4 work 13 rom_testbench 0 22 f]0MChQiD1dU2;N4mkJ6h2
+l26
+L9
+VaINGbW@k82ljjG6nEmW@K3
+!s100 oV=Q6^AL5<GLWK<gk3>nP0
+R9
+32
+R68
+R69
+R70
+R13
+R14
+!i10b 1
+Erw_memory_testbench
+Z71 w1665424168
+R1
+R41
+R2
+R3
+R4
+R5
+R6
+Z72 8C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RW_MEMORY_TestBench.vhd
+Z73 FC:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RW_MEMORY_TestBench.vhd
+l0
+L8
+VQ7N4ZWY<[1JHJULWmblWF1
+!s100 >[[6Q`_]fgj@FM`Qn;@@l3
+R9
+32
+!i10b 1
+Z74 !s108 1674576768.620000
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RW_MEMORY_TestBench.vhd|
+Z76 !s107 C:\Users\alisu\OneDrive\Documents\VHDL\Lab_2\RW_MEMORY_TestBench.vhd|
+R13
+R14
+Abehave
+R1
+R41
+R2
+R3
+R4
+R5
+Z77 DEx4 work 19 rw_memory_testbench 0 22 Q7N4ZWY<[1JHJULWmblWF1
+l28
+L11
+Z78 VMCZ;aRdl002aYEN[dM@EB1
+Z79 !s100 VSgX?^NH76@?@ZITP20a?0
+R9
+32
+!i10b 1
+R74
+R75
+R76
+R13
+R14

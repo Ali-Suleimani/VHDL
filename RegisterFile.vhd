@@ -1,0 +1,42 @@
+library ieee;
+--library work;
+use ieee.std_logic_1164.all;
+-- use IEEE.std_logic_unsigned.all;
+use ieee.numeric_std.all;
+use work.CPU_Package.all;
+-- variable data_word : CPU_Package;
+entity RegisterFile is
+
+   PORT(clk : IN std_logic; 
+    data_in : IN data_word_type; 
+    data_out_1  : OUT data_word_type; 
+    data_out_0  : OUT data_word_type; 
+    sel_in      : IN std_logic_vector (1 downto 0);   
+    sel_out_1   : IN std_logic_vector (1 downto 0);   
+    sel_out_0   : IN std_logic_vector (1 downto 0);  
+    rw_reg      : IN std_logic); 
+     
+end entity;  
+  
+ARCHITECTURE RTL OF RegisterFile is  
+
+type reg_file_type is array(3 downto 0) of data_word_type; 
+signal reg: reg_file_type;
+
+begin 
+  process (rw_reg, clk, sel_in)
+      variable index:natural range 0 to 3;
+    begin
+      if rising_edge(clk) then
+            if rw_reg = '0' then
+               index:=to_integer(unsigned(sel_in));
+         reg(index) <=data_in;
+      end if;
+    end if;
+    end process;
+    
+    data_out_1 <= reg(to_integer(unsigned(sel_out_1)));
+    data_out_0 <= reg(to_integer(unsigned(sel_out_0)));
+  end RTL;
+        
+
